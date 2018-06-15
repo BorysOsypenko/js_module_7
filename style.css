@@ -1,0 +1,20 @@
+.button {
+	font-size: 30px;
+    height: 50px;
+    width: 50px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background: #B6FF00;
+    border-radius: 12px 12px 12px 12px;
+    border-color: #000000;
+    text-transform: uppercase;
+    outline: none;
+	}
+.button:active {
+	background: #FFD800;
+	border-color: #FF0000;
+	}
+.body {
+		text-align: center;
+	}
+	
